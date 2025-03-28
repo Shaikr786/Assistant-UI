@@ -37,7 +37,7 @@ yarn dev
 ### 5. Test the Application
 
 You can test the deployed version of this application at:
-[Deployed Application URL](#) 
+[Deployed Application URL](https://assistant-ui-gn19.vercel.app/) 
 
 For more details, refer to the original [Assistant-UI Documentation](https://www.assistant-ui.com/).
 
